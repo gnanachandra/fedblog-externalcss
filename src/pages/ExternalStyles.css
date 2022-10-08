@@ -1,0 +1,21 @@
+.container
+{
+    border: 2px solid brown;
+    padding: 10px;
+    font-weight: bold;
+    background-color: burlywood;
+}
+.heading
+{
+    text-align: center;
+    color: red;
+    font-weight: bolder;
+}
+.content
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+table{
+    border-spacing: 200px;
+}

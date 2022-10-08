@@ -1,0 +1,47 @@
+.error
+{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: xx-large;
+}
+.intro-content,.types-content,.error,.external-css-content
+{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 40px;
+    width: 90%;
+    height: 100%;
+    padding: 120px 50px 50px 50px;
+}
+.code
+{
+    display: flex;
+    border: 2px solid black;
+    padding-left: 40px;
+    background-color: aliceblue;
+    width: fit-content;
+    height: fit-content;
+}
+
+p{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+.heading
+{
+    text-align: center;
+    color: cadetblue;
+}
+h2,h4{
+    color: red;
+    font-weight: 700;
+}
+h3{
+    color:blue;
+    font-weight: bold;
+}
+span{
+    background-color: whitesmoke;
+    color: red;
+}
