@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './pagestyles.css'
 function Intro() {
   return (
     <div className='intro-content'>

@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './pagestyles.css'
 function ExternalCSS() {
   return (
     <div className='external-css-content'>
